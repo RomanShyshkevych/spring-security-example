@@ -48,7 +48,7 @@ public class ApplicationSecurityConfig extends WebSecurityConfigurerAdapter {
                 .authenticated();
     }
 
-    // Basic auth
+    // Basic auth tff
 //    @Override
 //    protected void configure(HttpSecurity http) throws Exception {
 //        http
